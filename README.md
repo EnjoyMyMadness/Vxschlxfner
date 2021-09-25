@@ -1,5 +1,3 @@
-Discord: Adrian.#0003
-
----
-![IMAGE#001](https://github-readme-stats.vercel.app/api/top-langs/?username=Vxschlxfner&hide=shell&bg_color=20,e96443,904e95&title_color=fff&text_color=fff)
-![IMAGE#002](https://github-readme-stats.vercel.app/api?username=Vxschlxfner&hide=prs&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Vxschlxfner&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117&hide=prs,issues)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vxschlxfner&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117)](#)
+<br><br>
