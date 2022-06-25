@@ -1,7 +1,7 @@
 ### <div align="center">I'm Adrian, a hobby developer 👨‍💻 from Germany, working since 2019🚀</div>  
   
 
-- 🔭 I’m currently working on [Protect-V2]([https://github.com/](https://github.com/ProtectV))  
+- 🔭 I’m currently working on [Protect-V2]([https://github.com/ProtectV])  
   
 
 - 🌱 I’m currently learning Lua  
